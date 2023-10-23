@@ -1,0 +1,184 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "",
+	  "email_feedback_and_report": "",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Como fazer a CNH digital",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fcnh.png?alt=media&token=14714db9-95fd-4b70-bd6d-08c6c66f6bed&_gl=1*bne12d*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3MzYuMjQuMC4w"
+    },
+    {
+      "id": 2,
+      "name": "Dúvidas frequentes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Como fazer a CNH digital",
+      "title": "Como ativar CNH digital",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fcnh.png?alt=media&token=14714db9-95fd-4b70-bd6d-08c6c66f6bed&_gl=1*bne12d*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3MzYuMjQuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fcomo%2FComo%20ativar%20CNH%20digital.html?alt=media&token=80315de7-a7dd-4671-8cc6-4fd544cece21&_gl=1*1uqj5uy*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgxMTAuNTguMC4w",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Como fazer a CNH digital",
+      "title": "Como baixar a carteira de habilitação digital no Android?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fcnh.png?alt=media&token=14714db9-95fd-4b70-bd6d-08c6c66f6bed&_gl=1*bne12d*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3MzYuMjQuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fcomo%2FComo%20baixar%20a%20carteira%20de%20habilita%C3%A7%C3%A3o%20digital%20no%20Android.html?alt=media&token=e69310d2-4c3a-467c-9d50-768bd2a96775&_gl=1*1hj2lz5*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgxMzQuMzQuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Dúvidas frequentes",
+      "title": "O que é o aplicativo Carteira Nacional de Habilitação Digital?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FO%20que%20%C3%A9%20o%20aplicativo%20Carteira%20Nacional%20de%20Habilita%C3%A7%C3%A3o%20Digital.html?alt=media&token=58281458-ce06-4f44-8cda-5ef6ee42746c&_gl=1*1tuo7i0*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgzMDguNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Dúvidas frequentes",
+      "title": "O que é possível acessar no aplicativo?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FO%20que%20%C3%A9%20poss%C3%ADvel%20acessar%20no%20aplicativo.html?alt=media&token=57d28ba9-fed9-444f-aeb4-d04c46ce4484&_gl=1*u7q6ze*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgzMjkuMzkuMC4w",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Dúvidas frequentes",
+      "title": "Qual é a função do QR Code no documento?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FQual%20%C3%A9%20a%20fun%C3%A7%C3%A3o%20do%20QR%20Code%20no%20documento.html?alt=media&token=331a2300-c261-4d6c-9b1b-5cf4432a8043&_gl=1*tw2ogf*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgzNDUuMjMuMC4w",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Dúvidas frequentes",
+      "title": "Existe um cronograma para desativacao total da CNH impressa?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FExiste%20um%20cronograma%20para%20desativacao%20total%20da%20CNH%20impressa.html?alt=media&token=d840d934-9bcf-41aa-877d-29740c360e15&_gl=1*5e45km*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjgzODYuNjAuMC4w",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Dúvidas frequentes",
+      "title": "A CNH Digital e mesmo segura em relacao a falsificações e fraudes?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FA%20CNH%20Digital%20e%20mesmo%20segura%20em%20relacao%20a%20falsifica%C3%A7%C3%B5es%20e%20fraudes.html?alt=media&token=d5008fdf-f69e-4832-9324-828403df672a&_gl=1*1e6pvat*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg0MzAuMTYuMC4w",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Dúvidas frequentes",
+      "title": "Ventagens do uso da CNH Digital",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fquestion.png?alt=media&token=a77952e5-9786-40f1-8d17-8a5bf1033e00&_gl=1*cn2b1c*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjc3NjAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/cnhdigitalgaverse%2Fduvidas%2FVentagens%20do%20uso%20da%20CNH%20Digital.html?alt=media&token=83d4812c-a101-45c4-9ad1-079abe49af22&_gl=1*13lyz66*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODA2NTkyNC4xOC4xLjE2OTgwNjg0NTAuNjAuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
